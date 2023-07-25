@@ -11,7 +11,7 @@ window.addEventListener("DOMContentLoaded", () => {
     wingSpan: 40.0,
     separation: 100.0,
     alignment: 77.0,
-    quantity: 1.0,
+    quantity: 2.0,
     cohension: 5.00,
     backgroundAlpha: 0.0,
   });
